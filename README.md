@@ -41,3 +41,5 @@ Relevant links
 [Hyperledger burrow](https://github.com/hyperledger/burrow)
 
 [Monax](https://github.com/monax/monax)
+
+[The bitcoin protocol stack](https://medium.com/@melik_87377/lightning-network-enables-unicast-transactions-in-bitcoin-lightning-is-bitcoins-tcp-ip-stack-8ec1d42c14f5)
