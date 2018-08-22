@@ -17,7 +17,7 @@ keywords
 ===
 ethereum, bitcoin, smart contracts, lightning network, consensus,
 
-blockchain, solidity
+blockchain, solidity, monax, hyperledger
 
 Relevant links
 ===
