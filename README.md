@@ -43,3 +43,8 @@ Relevant links
 [Monax](https://github.com/monax/monax)
 
 [The bitcoin protocol stack](https://medium.com/@melik_87377/lightning-network-enables-unicast-transactions-in-bitcoin-lightning-is-bitcoins-tcp-ip-stack-8ec1d42c14f5)
+
+[Dai stablecoin](https://makerdao.com/)
+
+[Dai stablecoin introduction](https://medium.com/@james_3093/the-dai-stablecoin-is-a-game-changer-for-ethereum-and-the-entire-cryptocurrency-ecosystem-13fb412d1e75)
+
