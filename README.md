@@ -18,3 +18,22 @@ keywords
 ethereum, bitcoin, smart contracts, lightning network, consensus,
 
 blockchain, solidity
+
+Relevant links
+===
+
+[Bitcoin](https://github.com/bitcoin)
+
+[Ethereum](https://github.com/ethereum)
+
+[Solidity](https://github.com/ethereum/solidity)
+
+[Lightning](https://github.com/lightningnetwork/lnd)
+
+[BitMEX (Bitcoin Merchantile Exchange)](bitmex.com/app/)
+
+[Bitcoin Talk](bitcointalk.org)
+
+[Graphene Blockchain](https://github.com/0xae/graphene)
+
+[EOS Blockchain](https://github.com/EOSIO/eos)
