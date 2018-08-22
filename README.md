@@ -37,3 +37,7 @@ Relevant links
 [Graphene Blockchain](https://github.com/0xae/graphene)
 
 [EOS Blockchain](https://github.com/EOSIO/eos)
+
+[Hyperledger burrow](https://github.com/hyperledger/burrow)
+
+[Monax](https://github.com/monax/monax)
