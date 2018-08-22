@@ -10,7 +10,7 @@ can distributed, safe and sofisticated instruments be implemented in
 
 modern era without much reliance on the tradicional, centralized and 
 
-vulnerable financial system, that's still recovering from the 2008 recession.
+vulnerable financial system.
 
 
 keywords
