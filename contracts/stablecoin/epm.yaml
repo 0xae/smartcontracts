@@ -1,4 +1,0 @@
-jobs:
-        - name: deployStorage
-          deploy:
-                  contract: dai.sol
