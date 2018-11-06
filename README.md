@@ -8,10 +8,7 @@ powered by proven blockchain systems like bitcoin and ethereum and how
 
 can distributed, safe and sofisticated instruments be implemented in
 
-modern era without much reliance on the tradicional, centralized and 
-
-financial system.
-
+the modern era of cross border and interplanetary finance.
 
 keywords
 ===
