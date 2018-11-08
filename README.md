@@ -24,7 +24,7 @@ Relevant links
 
 [BitMEX (Bitcoin Merchantile Exchange)](bitmex.com/app/)
 
-[Bitcoin Talk](bitcointalk.org)
+[Bitcoin Talk](https://bitcointalk.org)
 
 [Graphene Blockchain](https://github.com/0xae/graphene)
 
