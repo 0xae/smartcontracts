@@ -9,7 +9,6 @@ the modern era of cross border and interplanetary finance.
 keywords
 ===
 ethereum, bitcoin, smart contracts, stablecoins, pegs, lightning network, consensus,
-
 blockchain, solidity, monax, hyperledger, contracts, financial instruments, FINEX
 
 Relevant links
