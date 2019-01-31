@@ -1,8 +1,8 @@
 # Smart Contracts Research Project
 
 This research aims to dissect, investigate and ellaborate prototypes,
-reports and enrich our xbtfinex infraestructure on the topic smart contracts
-powered by proven blockchain systems like bitcoin and ethereum and how
+reports and enrich xbtfinex on the infraestructure of smart contracts
+powered by bitcoin and ethereum blockchain systems and how
 can distributed, safe and sofisticated instruments be implemented in
 the modern era of cross border and interplanetary finance.
 
